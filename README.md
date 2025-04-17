@@ -1,5 +1,7 @@
 # this-american life podcast
- 
+ Technical Skills & Competencies
+Python • Pandas • BeautifulSoup • NLTK • Regular Expressions • Hugging Face Transformers (DistilBART, BART) • Prompt Engineering • Two‑Level Summarization • Text Chunking • Sentence Transformers • FAISS • Hugging Face Datasets • Jupyter/Colab • ipywidgets • Git/GitHub • Docker • CI/CD • Unit Testing • Performance Tuning
+
 GenAI-Powered Podcast Transcript Enhancer Project Plan
 -Keyword Search Engine
 -LLM-Based Summarization
