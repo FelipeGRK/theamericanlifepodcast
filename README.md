@@ -1,4 +1,4 @@
-# this-american life podcast GENAI solution- Felipe Siqueira
+# this-american life podcast GENAI solution- by Felipe Siqueira
 A Generative AI–powered application that scrapes, cleans, and chunks long podcast transcripts; produces two‑level summaries; enables context‑aware search; and recommends related episodes.
 
  Technical Skills & Competencies
