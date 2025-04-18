@@ -1,5 +1,6 @@
 # this-american life podcast GENAI solution
 A Generative AI–powered application that scrapes, cleans, and chunks long podcast transcripts; produces two‑level summaries; enables context‑aware search; and recommends related episodes.
+
  Technical Skills & Competencies
 Python • Pandas • BeautifulSoup • NLTK • Regular Expressions • Hugging Face Transformers (DistilBART, BART) • Prompt Engineering • Two‑Level Summarization • Text Chunking • Sentence Transformers • FAISS • Hugging Face Datasets • Jupyter/Colab • ipywidgets • Git/GitHub • Docker • CI/CD • Unit Testing • Performance Tuning
 
